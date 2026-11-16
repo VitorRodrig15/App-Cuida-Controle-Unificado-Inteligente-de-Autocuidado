@@ -8,16 +8,14 @@ Aplicativo Android nativo desenvolvido para ajudar na organização da rotina de
 
 > **Disponível exclusivamente para dispositivos Android.**
 
-O instalador oficial (`.apk`) está hospedado diretamente na aba de Releases deste repositório.
-
-[![Baixar APK para Android](https://img.shields.io/badge/Download-APK%20Android-1F5A96?style=for-the-badge&logo=android&logoColor=white)](https://github.com/VitorRodrig15/App-Cuida-Controle-Unificado-Inteligente-de-Autocuidado/releases/latest)
+[![Baixar APK para Android](https://img.shields.io/badge/Download-APK%20Android-1F5A96?style=for-the-badge&logo=android&logoColor=white)](https://github.com/VitorRodrig15/App-Cuida-Controle-Unificado-Inteligente-de-Autocuidado/raw/main/Cuida-debug.apk)
 
 ### Como instalar no celular:
-1. Clique no botão acima (ou acesse a seção **[Releases](https://github.com/VitorRodrig15/App-Cuida-Controle-Unificado-Inteligente-de-Autocuidado/releases)** na lateral direita desta página) e baixe o arquivo `.apk` mais recente.
+1. Clique no botão acima para iniciar o download direto do arquivo `Cuida-debug.apk`.
 2. Ao abrir o arquivo baixado no celular, o Android solicitará permissão para **instalar apps de fontes desconhecidas** (ou do navegador utilizado). Autorize para prosseguir.
 3. Conclua a instalação e abra o **CUIDA**.
 
-*Nota: Para que os alertas funcionem no minuto exato mesmo com a tela bloqueada, conceda as permissões de **Notificações** e **Alarmes e lembretes** solicitadas no primeiro acesso[cite: 2].*
+*Nota: Como esta é uma versão de testes (`debug`), o Google Play Protect pode exibir um aviso padrão perguntando se você deseja instalar mesmo assim — basta tocar em **Instalar assim mesmo**. Para que os alertas funcionem no minuto exato, conceda também as permissões de **Notificações** e **Alarmes e lembretes** solicitadas no primeiro acesso.*
 
 ---
 
