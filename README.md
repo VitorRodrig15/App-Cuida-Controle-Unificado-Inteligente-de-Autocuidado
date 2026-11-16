@@ -43,57 +43,42 @@ Conheça algumas das principais telas do **CUIDA**, com exemplos reais de utiliz
 
 ### 🏠 Tela Inicial
 
-A tela inicial apresenta um resumo dos próximos medicamentos, horários programados e acompanhamento das doses do dia, permitindo ao usuário visualizar rapidamente sua rotina de tratamento.
+Visão geral dos próximos medicamentos, horários programados e acompanhamento das doses do dia.
 
-\<p align="center">   \<img src="docs/screenshots/Tela_inicial.jpeg" width="280" alt="Tela inicial do aplicativo CUIDA"> \</p>
-
-\<p align="center">   \<em>Visão geral dos próximos medicamentos e lembretes programados.\</em> \</p>
+| Tela inicial |
+|:---:|
+| ![Tela inicial do CUIDA](docs/screenshots/Tela_inicial.jpeg) |
 
 ---
 
 ### 💊 Cadastro e Gerenciamento de Medicamentos
 
-O aplicativo permite cadastrar medicamentos com informações personalizadas, incluindo nome, dosagem, frequência, duração do tratamento, horário inicial, cor de identificação, som de alerta e fotografia do medicamento.
+Cadastro personalizado de medicamentos, com dosagem, frequência, duração do tratamento, horário inicial, cores, sons de alerta e fotografia.
 
-\<p align="center">   \<img src="docs/screenshots/Tela_medicamentos_cadastro.jpeg" width="280" alt="Tela de cadastro de medicamentos do CUIDA"> \</p>
-
-\<p align="center">   \<em>Cadastro de medicamentos e personalização dos lembretes.\</em> \</p>
-
-Além do cadastro, o usuário pode consultar os medicamentos ativos, visualizar seus horários e editar ou excluir tratamentos cadastrados.
-
-\<p align="center">
-&#x20; \<img src="docs/screenshots/Tela_medicamentos.jpeg" width="280" alt="Lista de medicamentos cadastrados no CUIDA">
-\</p>
-
-\<p align="center">
-&#x20; \<em>Lista de medicamentos ativos e respectivos horários.\</em>
-\</p>
+| Cadastro de medicamentos | Lista de medicamentos |
+|:---:|:---:|
+| ![Cadastro de medicamentos](docs/screenshots/Tela_medicamentos_cadastro.jpeg) | ![Meus medicamentos](docs/screenshots/Tela_medicamentos.jpeg) |
 
 ---
 
 ### 📅 Agenda de Doses
 
-A agenda permite acompanhar os tratamentos por meio de um calendário, identificando os dias com medicamentos programados e consultando os detalhes das doses previstas para cada data.
+Calendário interativo para acompanhar os tratamentos, identificar dias com medicamentos programados e consultar os horários de cada dose.
 
-\<p align="center">
-&#x20; \<img src="docs/screenshots/Tela_agenda.jpeg" width="280" alt="Calendário e agenda de medicamentos do CUIDA">
-\</p>
-
-\<p align="center">
-&#x20; \<em>Calendário de tratamentos e visualização dos medicamentos programados.\</em>
-\</p>
+| Agenda de doses |
+|:---:|
+| ![Agenda de doses](docs/screenshots/Tela_agenda.jpeg) |
 
 ---
 
 ### 👤 Perfil do Usuário
 
-A área de perfil reúne as informações da conta e permite acessar recursos relacionados à segurança pessoal, incluindo o cadastro do contato de confiança, denominado **Anjo da Guarda**.
+Área de perfil com informações da conta e cadastro do contato de segurança pessoal, e relatório geral como altura, peso, tipo sanguíneo, alergia;
+Além de Relatório Gerado em PDF*.
 
-\<p align="center">   \<img src="docs/screenshots/Tela_perfil.jpeg" width="280" alt="Perfil do usuário e recurso Anjo da Guarda"> \</p>
-
-\<p align="center">
-&#x20; \<em>Perfil do usuário e cadastro do contato de segurança pessoal.\</em>
-\</p>
+| Perfil do usuário |
+|:---:|
+| ![Perfil do usuário](docs/screenshots/Tela_perfil.jpeg) |
 
 ---
 
